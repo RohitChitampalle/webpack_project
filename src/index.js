@@ -10,3 +10,4 @@ const jokeBtn = document.getElementById('jokeBtn')
 jokeBtn.addEventListener('click', generateJoke)
 
 generateJoke()
+//Added comments
